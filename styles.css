@@ -88,10 +88,6 @@ nav button{
     width: 50px;
 }
 
-nav .togglemode{
-    
-}
-
 /* Section Styles */
 section {
     padding: 20px 0px;
@@ -289,6 +285,7 @@ h2::after {
 
 .lms-section a:hover {
     transform: scale(1.1);
+    margin-bottom: 15px;
 }
 
 .lms-section img {
@@ -299,8 +296,9 @@ h2::after {
 
 .lms-section p {
     font-size: 20px;
-    font-weight: bold;
-    margin: 0;
+    
+    color: var(--text-color);
+    margin: -10px;
 }
 
 /* Horizontal Rule Styling */

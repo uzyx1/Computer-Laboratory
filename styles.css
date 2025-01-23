@@ -20,7 +20,7 @@
     --card-background: #2d2d2d;
     --accent-color: #ff6f61;
     --hover-color: #ff5f51;
-    --hover-rulescolor: #ff6f61;
+    --hover-rulescolor: #7961ff;
     --border-color: #444;
     --nav-background: rgba(29, 29, 29, 0.9);
     --nav-text-color: #f5f7fa;
@@ -53,7 +53,7 @@ nav {
     top: 0;
     z-index: 1000;
     backdrop-filter: blur(10px);
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 6px rgba(121,97,255, 0.1);
 }
 
 nav ul {
